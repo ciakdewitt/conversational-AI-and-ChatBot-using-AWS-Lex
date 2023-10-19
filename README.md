@@ -6,5 +6,5 @@ Amazon Lex is a fully managed artificial intelligence (AI) service with advanced
 Powered by the same technology as Alexa for speech recognition and language understanding; it integrates with with AWS Lambda which you trigger functions for execution and validations.<br>
 Once built, your bot can be deployed directly to chat platforms, mobile clients, and IoT devices.<br>
 <br>
-
+<img src="pictures/lexamazon.png" alt="awslex">
 </p>
